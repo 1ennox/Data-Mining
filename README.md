@@ -35,4 +35,16 @@ Individual and Group project of this course
 
 1-3.2         Partition image intensity into 3. 4, 5, 6, 7 bins to check image quality change compared with the original Lena image (8 bit image with intensity range from 0 to 255).
 
- 
+---
+
+### Group Project
+
+1. The inputs should be over 1000 data, or points, or samples.
+
+2. You need to write codes for at least one of the methods in classification or clustering for your implementation, that means you can use any library or function except the required one method. 
+
+3. Documentation includes tile, names/student IDs, aim, method, implementation result, discussion, conclusion, codes.
+
+**What we choose to do**
+
+Clustering Australian weather with using min-temperatures and max-temperatures (1000 data samples).
